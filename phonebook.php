@@ -57,6 +57,7 @@ for ($i=1; $i <=99999 ; $i++) {
 
 }
 
-echo $i." products was added.";
+
+echo $i." rows was created.";
  
 mysqli_close($conn);
